@@ -7,3 +7,8 @@
 #Print the answer.
  
 #Print the number.
+number=13
+answer=number%2
+print(number)
+print(answer)
+
