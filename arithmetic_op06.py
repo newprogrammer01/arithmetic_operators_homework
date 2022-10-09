@@ -10,6 +10,5 @@
 number=13
 answer=number%2
 print(answer)
-print(number)
 
 
