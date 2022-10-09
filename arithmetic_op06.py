@@ -7,8 +7,9 @@
 #Print the answer.
  
 #Print the number.
-number=13%2
-answer=number
+
+number=14
+answer=number%2
 print(answer)
 
 
