@@ -8,7 +8,9 @@
 #'The result is:'
 x=10
 y=5
-print(x+y)
+value=x+y
+print(value)
+
 
 
 
