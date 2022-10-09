@@ -8,7 +8,9 @@
  
 #Print the number.
 number=13
+number%2
 answer=number%2
-print(number)
 print(answer)
+print(number)
+
 
