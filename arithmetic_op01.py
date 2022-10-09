@@ -8,6 +8,7 @@
 #'The result is:'
 x=10
 y=5
-create=x+y
-print(create)
+x+y
+print(x+y)
+
 
