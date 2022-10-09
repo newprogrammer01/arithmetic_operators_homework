@@ -16,3 +16,5 @@ x3=number%10
 answer=x1+x2+x3
 print(answer)
 
+
+
